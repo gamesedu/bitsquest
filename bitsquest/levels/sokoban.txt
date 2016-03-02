@@ -1,0 +1,3 @@
+/*
+ * The round switches won't stay on unless something is placed on top of them.
+ */

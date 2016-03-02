@@ -1,0 +1,4 @@
+/*
+ * The square below is a pressure switch. Move your robot over it to trigger
+ * the change to the on state and open the door.
+ */

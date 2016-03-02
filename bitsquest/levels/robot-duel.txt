@@ -1,0 +1,4 @@
+/*
+ * Destroy the other bot before it destroys you.
+ *
+ */

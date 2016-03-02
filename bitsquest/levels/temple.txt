@@ -1,0 +1,17 @@
+/*
+ * You have a cannon object available to you which can send out projectiles. 
+ * The projectiles don't move terribly quickly but they will destroy your enemy
+ * if they hit.
+ * 
+ * The cannon object attached to this has the following methods:
+ *
+ * cannon.aim()  - returns the current direction the cannon is pointing.
+ * cannon.aim(number) - points the cannon in the supplied direction.
+ * cannon.fire() - fires a projectile.
+ * cannon.ready() - tests to see if the cannon can be fired again.  The cannon
+ *    requires a cooldown period after each firing.
+ *
+ *
+ * Go up the elevator.
+ */
+

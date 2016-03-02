@@ -1,0 +1,6 @@
+/*
+ * Open all three doors to exit.
+ *
+ * The answer is 5.
+ */
+
