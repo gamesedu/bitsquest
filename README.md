@@ -1,5 +1,8 @@
+
 # bitsquest
 a clone of bitquest (for translation)
+
+<img src="bitquest.jpg" />
 
 Bit's Quest
 
